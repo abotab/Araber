@@ -1,7 +1,7 @@
 FROM jepthoniq/jepthon:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/jepthoniq/jepthon.git /root/jepthon
+RUN git clone https://github.com/abotab/Araber.1.git /root/jepthon
 #working directory 
 WORKDIR /root/jepthon
 
